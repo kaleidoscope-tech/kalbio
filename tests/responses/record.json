@@ -1,0 +1,52 @@
+{
+    "id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+    "created_at": "2025-10-17T18:11:41.180Z",
+    "entity_slice_id": "6d8cf9a4-41ff-4c59-84f4-553c13106625",
+    "identifier_ids": [
+        "acda4eea-bba4-4125-849f-d6a5d312e28c"
+    ],
+    "record_identifier": "drug 1",
+    "initial_operation_id": null,
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "record_values": {
+        "4feab06e-0a8d-407e-afd8-a54e0ca93e5c": [
+            {
+                "id": "db4565bd-e309-4b16-b544-47e5da53148b",
+                "content": "139",
+                "created_at": "2025-10-20T16:04:42.917Z",
+                "operation_id": null,
+                "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1"
+            }
+        ],
+        "68a71528-7024-471b-a853-c37c3ced61a7": [
+            {
+                "id": "b9365972-7fa1-4413-85a1-026a8008eec5",
+                "content": "text 1 drug",
+                "created_at": "2025-10-20T16:01:57.946Z",
+                "operation_id": null,
+                "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1"
+            }
+        ],
+        "92d4f961-06f3-40e5-a6b1-f7e7f44f4abf": [
+            {
+                "id": "4f45cfb0-4069-4d4e-b33d-188b8c7819ab",
+                "content": true,
+                "created_at": "2025-10-20T16:05:16.158Z",
+                "operation_id": null,
+                "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1"
+            }
+        ],
+        "f0cb7b2d-c800-4858-9f15-f50b9d364dd3": [
+            {
+                "id": "acda4eea-bba4-4125-849f-d6a5d312e28c",
+                "content": "drug 1"
+            }
+        ]
+    },
+    "sub_record_ids": [],
+    "excluded_operation_ids": [],
+    "operation_records_created_at": {
+        "41105beb-bed6-45dd-af38-cba8b8149bd8": "2025-10-17T18:12:53.852115+00:00",
+        "72e73a81-448b-44f4-a359-eaefcd43e3c7": "2025-10-21T18:10:15.122168+00:00"
+    }
+}
