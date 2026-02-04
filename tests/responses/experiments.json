@@ -1,0 +1,162 @@
+[
+  {
+    "id": "72e73a81-448b-44f4-a359-eaefcd43e3c7",
+    "definition_id": "f7366bb3-b888-4e5e-aa63-9168330593e5",
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "document_ids": [],
+    "activity_type": "experiment",
+    "title": "Duplicate Drug Tests (1)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "This is an example of drug tests for the API Python Client",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "status": "to do",
+    "assigned_user_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "assigned_group_ids": [],
+    "due_date": null,
+    "start_date": null,
+    "duration": null,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": [],
+    "label_ids": [
+      "57dceb26-8d72-4202-a4c6-6d2b8fcf4566",
+      "d1ffe7db-d50f-4af0-aea7-edc2620d5e2a"
+    ],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-21T18:10:15.122Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [],
+    "last_activity_at": "2025-10-21T18:14:11.426Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [
+      "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+      "6747499b-a5cc-4f6c-8156-5556f018612f",
+      "717a9228-369d-4978-86cd-64b0b328c752"
+    ],
+    "source_container_ids": [],
+    "note_section_ids": []
+  },
+  {
+    "id": "ef5e91f1-ec5b-498e-a876-ade141ceb6fe",
+    "definition_id": "e0e86d68-daad-4c1a-94d6-50e374b76f4c",
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "document_ids": [],
+    "activity_type": "experiment",
+    "title": "Drug Experiment in vivo (2)",
+    "description": null,
+    "status": "to do",
+    "assigned_user_ids": [],
+    "assigned_group_ids": [],
+    "due_date": null,
+    "start_date": null,
+    "duration": null,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": ["b8cec153-ef31-47f1-8ca6-8e8dd117189a"],
+    "label_ids": ["57dceb26-8d72-4202-a4c6-6d2b8fcf4566"],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-21T17:31:51.740Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [
+      {
+        "id": "0abc8f56-7821-4e88-b6a4-ad0e7f8088dd",
+        "property_field_id": "216d526a-6698-40b0-b48a-3d15c1a4bcf9",
+        "content": ["kaleidoscope.bio"],
+        "created_at": "2025-10-21T18:09:19.695Z",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "property_name": "online resource",
+        "field_type": "URL",
+        "resource_type": "task",
+        "resource_id": "ef5e91f1-ec5b-498e-a876-ade141ceb6fe"
+      }
+    ],
+    "last_activity_at": "2025-10-21T18:14:14.639Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [
+      "22a3e117-efb6-4e72-9716-776c5f7831d1",
+      "3c33ce54-08e5-4afe-9db5-db69fb633cc4",
+      "610e683c-b96f-4555-b06b-39e574e7fa84",
+      "788b4de2-dee2-4ce2-be63-f3ae42ec834d"
+    ],
+    "source_container_ids": [],
+    "note_section_ids": []
+  },
+  {
+    "id": "41105beb-bed6-45dd-af38-cba8b8149bd8",
+    "definition_id": "f7366bb3-b888-4e5e-aa63-9168330593e5",
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "document_ids": [],
+    "activity_type": "experiment",
+    "title": "Drug Tests (3)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "This is an example of drug tests for the API Python Client",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "status": "in progress",
+    "assigned_user_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "assigned_group_ids": [],
+    "due_date": null,
+    "start_date": null,
+    "duration": null,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": [],
+    "label_ids": [
+      "d1ffe7db-d50f-4af0-aea7-edc2620d5e2a",
+      "57dceb26-8d72-4202-a4c6-6d2b8fcf4566"
+    ],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-17T18:12:12.339Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [],
+    "last_activity_at": "2025-10-21T18:14:18.894Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [
+      "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+      "6747499b-a5cc-4f6c-8156-5556f018612f",
+      "717a9228-369d-4978-86cd-64b0b328c752"
+    ],
+    "source_container_ids": [],
+    "note_section_ids": []
+  }
+]

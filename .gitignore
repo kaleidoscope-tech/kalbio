@@ -1,0 +1,11 @@
+*.pyc
+dist/
+.DS_Store
+.venv
+.vscode
+api_keys.py
+api_client.py
+text_instructions.txt
+git_ignore/
+sample_resp
+site/

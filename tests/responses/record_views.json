@@ -1,0 +1,170 @@
+[
+    {
+        "id": "d86b49dd-cc1b-4323-95e2-ddbbb7d2d7d1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "program_ids": [],
+        "entity_slice_id": "6d8cf9a4-41ff-4c59-84f4-553c13106625",
+        "record_set_ids": [],
+        "view_name": "Main",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "is_deleted": false,
+        "created_at": "2025-10-17T18:11:24.707Z",
+        "updated_at": "2025-10-20T16:07:47.379Z",
+        "is_archived": false,
+        "sorts": [],
+        "filters": [],
+        "color_filters": [],
+        "view_fields": [
+            {
+                "id": "8dacc133-2ec7-4c73-b61a-268a6d0443b0",
+                "data_field_id": "68a71528-7024-471b-a853-c37c3ced61a7",
+                "lookup_field_id": null,
+                "plot_field_id": null,
+                "aggregation_type": null,
+                "sort_behavior": null
+            },
+            {
+                "id": "4f681cfc-c24e-4272-8675-ed61a8a799fa",
+                "data_field_id": "4feab06e-0a8d-407e-afd8-a54e0ca93e5c",
+                "lookup_field_id": null,
+                "plot_field_id": null,
+                "aggregation_type": null,
+                "sort_behavior": null
+            },
+            {
+                "id": "59e165f9-412e-40dc-9211-5f8b54e82b29",
+                "data_field_id": "92d4f961-06f3-40e5-a6b1-f7e7f44f4abf",
+                "lookup_field_id": null,
+                "plot_field_id": null,
+                "aggregation_type": null,
+                "sort_behavior": null
+            }
+        ],
+        "operation_ids": [],
+        "operation_definition_ids": [],
+        "readonly_operation_ids": [],
+        "readonly_operation_definition_ids": [],
+        "sort_order": null,
+        "sort_descending": null
+    },
+    {
+        "id": "5c49159f-2dc4-49ee-8142-055f5881efe2",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "program_ids": [],
+        "entity_slice_id": "6d8cf9a4-41ff-4c59-84f4-553c13106625",
+        "record_set_ids": [],
+        "view_name": "Experiment Main",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "is_deleted": false,
+        "created_at": "2025-10-17T18:12:39.076Z",
+        "updated_at": "2025-10-17T18:12:39.076Z",
+        "is_archived": false,
+        "sorts": [],
+        "filters": [],
+        "color_filters": [],
+        "view_fields": [],
+        "operation_ids": [
+            "41105beb-bed6-45dd-af38-cba8b8149bd8"
+        ],
+        "operation_definition_ids": [],
+        "readonly_operation_ids": [],
+        "readonly_operation_definition_ids": [],
+        "sort_order": null,
+        "sort_descending": null
+    },
+    {
+        "id": "dfa0fb55-9704-47f7-96a6-c56502567da4",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "program_ids": [],
+        "entity_slice_id": "337f60ea-edbd-4b6f-a3be-f83b78bd149f",
+        "record_set_ids": [],
+        "view_name": "Main",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "is_deleted": false,
+        "created_at": "2025-10-21T17:40:31.436Z",
+        "updated_at": "2025-10-21T17:40:44.335Z",
+        "is_archived": false,
+        "sorts": [],
+        "filters": [],
+        "color_filters": [],
+        "view_fields": [],
+        "operation_ids": [],
+        "operation_definition_ids": [],
+        "readonly_operation_ids": [],
+        "readonly_operation_definition_ids": [],
+        "sort_order": null,
+        "sort_descending": null
+    },
+    {
+        "id": "23e78222-63eb-4818-8e49-a1d699b9e0a9",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "program_ids": [],
+        "entity_slice_id": "337f60ea-edbd-4b6f-a3be-f83b78bd149f",
+        "record_set_ids": [],
+        "view_name": "Experiment Main",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "is_deleted": false,
+        "created_at": "2025-10-21T18:04:11.421Z",
+        "updated_at": "2025-10-21T18:04:11.421Z",
+        "is_archived": false,
+        "sorts": [],
+        "filters": [],
+        "color_filters": [],
+        "view_fields": [
+            {
+                "id": "0cdcea81-a085-4fc8-9eb4-f3e815d11a71",
+                "data_field_id": "8d039f27-8ff3-4ae1-8e80-3083df4fb8ef",
+                "lookup_field_id": null,
+                "plot_field_id": null,
+                "aggregation_type": null,
+                "sort_behavior": null
+            },
+            {
+                "id": "2008ff67-c56e-4475-beff-d5b6ec2de0ea",
+                "data_field_id": "d1046faa-399b-4bd3-81cd-a15087b69496",
+                "lookup_field_id": null,
+                "plot_field_id": null,
+                "aggregation_type": null,
+                "sort_behavior": null
+            }
+        ],
+        "operation_ids": [
+            "ef5e91f1-ec5b-498e-a876-ade141ceb6fe"
+        ],
+        "operation_definition_ids": [],
+        "readonly_operation_ids": [],
+        "readonly_operation_definition_ids": [],
+        "sort_order": null,
+        "sort_descending": null
+    },
+    {
+        "id": "f93bb26c-b2ee-4142-b369-8366b2fa99cc",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "program_ids": [],
+        "entity_slice_id": "6d8cf9a4-41ff-4c59-84f4-553c13106625",
+        "record_set_ids": [],
+        "view_name": "Experiment Main",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "is_deleted": false,
+        "created_at": "2025-10-21T18:10:15.122Z",
+        "updated_at": "2025-10-21T18:10:15.122Z",
+        "is_archived": false,
+        "sorts": [],
+        "filters": [],
+        "color_filters": [],
+        "view_fields": [],
+        "operation_ids": [
+            "72e73a81-448b-44f4-a359-eaefcd43e3c7"
+        ],
+        "operation_definition_ids": [],
+        "readonly_operation_ids": [],
+        "readonly_operation_definition_ids": [],
+        "sort_order": null,
+        "sort_descending": null
+    }
+]

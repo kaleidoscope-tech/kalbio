@@ -1,0 +1,335 @@
+[
+  {
+    "id": "43ebe8fa-420f-4512-84c0-4726c845e81d",
+    "definition_id": null,
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "activity_type": "project",
+    "title": "Large Project",
+    "status": "to do",
+    "assigned_user_ids": [],
+    "assigned_group_ids": [],
+    "due_date": null,
+    "start_date": null,
+    "duration": null,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": [],
+    "label_ids": [],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-23T18:54:15.455Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [],
+    "last_activity_at": "2025-10-23T18:54:15.455Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [],
+    "attached_record_ids": [],
+    "data_table_record_ids": [],
+    "source_container_ids": [],
+    "note_section_ids": [],
+    "document_ids": [],
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "A very big and strenuous project ",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "72e73a81-448b-44f4-a359-eaefcd43e3c7",
+    "definition_id": "f7366bb3-b888-4e5e-aa63-9168330593e5",
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "activity_type": "experiment",
+    "title": "Duplicate Drug Tests (1)",
+    "status": "to do",
+    "assigned_user_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "assigned_group_ids": [],
+    "due_date": null,
+    "start_date": "2025-10-25T00:00:00.000Z",
+    "duration": 1,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": ["b8cec153-ef31-47f1-8ca6-8e8dd117189a"],
+    "label_ids": [
+      "57dceb26-8d72-4202-a4c6-6d2b8fcf4566",
+      "d1ffe7db-d50f-4af0-aea7-edc2620d5e2a"
+    ],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-21T18:10:15.122Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [],
+    "last_activity_at": "2025-10-25T02:20:22.920Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [
+      "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+      "6747499b-a5cc-4f6c-8156-5556f018612f",
+      "717a9228-369d-4978-86cd-64b0b328c752"
+    ],
+    "attached_record_ids": [],
+    "data_table_record_ids": [
+      "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+      "6747499b-a5cc-4f6c-8156-5556f018612f",
+      "717a9228-369d-4978-86cd-64b0b328c752"
+    ],
+    "source_container_ids": [],
+    "note_section_ids": [],
+    "document_ids": [],
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "This is an example of drug tests for the API Python Client",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "b8cec153-ef31-47f1-8ca6-8e8dd117189a",
+    "definition_id": null,
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "activity_type": "task",
+    "title": "Register Drug Experiment in vivo",
+    "status": "to do",
+    "assigned_user_ids": [],
+    "assigned_group_ids": [],
+    "due_date": "2025-11-01T00:00:00.000Z",
+    "start_date": "2025-10-20T00:00:00.000Z",
+    "duration": 3,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": [],
+    "label_ids": ["075b9164-fbed-44c1-8909-65dbeb026fd5"],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-21T17:36:21.931Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [
+      {
+        "id": "d17cc50a-89a1-487b-aa24-e5df3d061acd",
+        "property_field_id": "36a89f8e-f0e0-4413-8bbe-1db19c3540af",
+        "created_at": "2025-10-21T17:38:02.512255+00:00",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "property_name": "field test",
+        "field_type": "text",
+        "resource_type": "task",
+        "resource_id": "b8cec153-ef31-47f1-8ca6-8e8dd117189a",
+        "content": ""
+      }
+    ],
+    "last_activity_at": "2025-10-25T02:20:22.920Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [],
+    "attached_record_ids": [],
+    "data_table_record_ids": [],
+    "source_container_ids": [],
+    "note_section_ids": [],
+    "document_ids": [],
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ef5e91f1-ec5b-498e-a876-ade141ceb6fe",
+    "definition_id": "e0e86d68-daad-4c1a-94d6-50e374b76f4c",
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "activity_type": "experiment",
+    "title": "Drug Experiment in vivo (2)",
+    "status": "to do",
+    "assigned_user_ids": [],
+    "assigned_group_ids": [],
+    "due_date": null,
+    "start_date": null,
+    "duration": null,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": ["b8cec153-ef31-47f1-8ca6-8e8dd117189a"],
+    "label_ids": ["57dceb26-8d72-4202-a4c6-6d2b8fcf4566"],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-21T17:31:51.740Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [
+      {
+        "id": "0abc8f56-7821-4e88-b6a4-ad0e7f8088dd",
+        "property_field_id": "216d526a-6698-40b0-b48a-3d15c1a4bcf9",
+        "created_at": "2025-10-21T18:09:19.695283+00:00",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "property_name": "online resource",
+        "field_type": "URL",
+        "resource_type": "task",
+        "resource_id": "ef5e91f1-ec5b-498e-a876-ade141ceb6fe",
+        "content": ["kaleidoscope.bio"]
+      }
+    ],
+    "last_activity_at": "2025-10-21T18:14:14.639Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [
+      "22a3e117-efb6-4e72-9716-776c5f7831d1",
+      "3c33ce54-08e5-4afe-9db5-db69fb633cc4",
+      "610e683c-b96f-4555-b06b-39e574e7fa84",
+      "788b4de2-dee2-4ce2-be63-f3ae42ec834d"
+    ],
+    "attached_record_ids": [],
+    "data_table_record_ids": [
+      "22a3e117-efb6-4e72-9716-776c5f7831d1",
+      "3c33ce54-08e5-4afe-9db5-db69fb633cc4",
+      "610e683c-b96f-4555-b06b-39e574e7fa84",
+      "788b4de2-dee2-4ce2-be63-f3ae42ec834d"
+    ],
+    "source_container_ids": [],
+    "note_section_ids": [],
+    "document_ids": [],
+    "description": null
+  },
+  {
+    "id": "483b4190-2020-4014-9e5d-7d3182d28b86",
+    "definition_id": null,
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "activity_type": "task",
+    "title": "Pay Registration Fees",
+    "status": "to do",
+    "assigned_user_ids": [],
+    "assigned_group_ids": [],
+    "due_date": "2025-11-19T00:00:00.000Z",
+    "start_date": "2025-12-10T00:00:00.000Z",
+    "duration": 1,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": [],
+    "label_ids": ["075b9164-fbed-44c1-8909-65dbeb026fd5"],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-21T17:11:47.284Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [],
+    "last_activity_at": "2025-10-21T17:33:41.443Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [],
+    "attached_record_ids": [],
+    "data_table_record_ids": [],
+    "source_container_ids": [],
+    "note_section_ids": [],
+    "document_ids": [],
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Pay for lab registration fee online at [website] before November 19th.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "41105beb-bed6-45dd-af38-cba8b8149bd8",
+    "definition_id": "f7366bb3-b888-4e5e-aa63-9168330593e5",
+    "parent_id": null,
+    "child_ids": [],
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "program_ids": [],
+    "activity_type": "experiment",
+    "title": "Drug Tests (3)",
+    "status": "in progress",
+    "assigned_user_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "assigned_group_ids": [],
+    "due_date": null,
+    "start_date": null,
+    "duration": null,
+    "aggregate_scheduling": false,
+    "completed_at_date": null,
+    "dependencies": [],
+    "label_ids": [
+      "d1ffe7db-d50f-4af0-aea7-edc2620d5e2a",
+      "57dceb26-8d72-4202-a4c6-6d2b8fcf4566"
+    ],
+    "reviewer_ids": [],
+    "subscriber_ids": ["9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"],
+    "review_requested_at": null,
+    "created_at": "2025-10-17T18:12:12.339Z",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "is_draft": false,
+    "properties": [],
+    "last_activity_at": "2025-10-21T18:14:18.894Z",
+    "bulk_sync_id": null,
+    "all_record_ids": [
+      "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+      "6747499b-a5cc-4f6c-8156-5556f018612f",
+      "717a9228-369d-4978-86cd-64b0b328c752"
+    ],
+    "attached_record_ids": [],
+    "data_table_record_ids": [
+      "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+      "6747499b-a5cc-4f6c-8156-5556f018612f",
+      "717a9228-369d-4978-86cd-64b0b328c752"
+    ],
+    "source_container_ids": [],
+    "note_section_ids": [],
+    "document_ids": [],
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "This is an example of drug tests for the API Python Client",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

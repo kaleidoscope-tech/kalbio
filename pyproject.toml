@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "kalbio"
+version = "0.2.3"
+description = "Python client for kaleidoscope.bio"
+authors = ["Ahmed Elnaiem <ahmed@kaleidoscope.bio>"]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^2.9.2"
+requests = "^2.32.3"
+cachetools = "^6.2.5"
+google-auth = { version = "^2.0.0", optional = true }
+
+[tool.poetry.extras]
+iap = ["google-auth"]
+
+[tool.poetry.urls]
+Homepage = "https://github.com/kaleidoscope-tech/kalbio"
+Repository = "https://github.com/kaleidoscope-tech/kalbio"
+Documentation = "https://api.docs.kaleidoscope.bio"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^9.0.2"
+pytest-mock = "^3.15.1"
+
+[tool.mypy]
+plugins = ["pydantic.mypy"]
+
+exclude = [
+    "^docs/",
+    "^site/",
+    # "^kalbio/",
+    # "^tests/",
+    # "^tests/test_.+\\.py",
+]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
