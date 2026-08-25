@@ -1,0 +1,8 @@
+[data-md-color-scheme="kalbio"] {
+  --md-primary-fg-color: #0a8df5;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #0a8df5;
+  --md-hue: 204;
+}

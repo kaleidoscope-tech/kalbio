@@ -1,0 +1,28 @@
+[
+  {
+    "id": "36a89f8e-f0e0-4413-8bbe-1db19c3540af",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "property_name": "field test",
+    "property_description": "this is a testing field",
+    "field_type": "text",
+    "is_required": false,
+    "connection_id": null,
+    "attrs": {},
+    "is_archived": false,
+    "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"
+  },
+  {
+    "id": "216d526a-6698-40b0-b48a-3d15c1a4bcf9",
+    "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+    "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+    "property_name": "online resource",
+    "property_description": "a link to something related online",
+    "field_type": "URL",
+    "is_required": false,
+    "connection_id": null,
+    "attrs": {},
+    "is_archived": false,
+    "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5"
+  }
+]

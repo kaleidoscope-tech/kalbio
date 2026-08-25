@@ -1,0 +1,98 @@
+[
+    {
+        "content": true,
+        "created_at": "2025-10-20T16:05:16.158Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "4f45cfb0-4069-4d4e-b33d-188b8c7819ab",
+        "import_id": null,
+        "field_id": "92d4f961-06f3-40e5-a6b1-f7e7f44f4abf",
+        "field_type": "boolean",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    },
+    {
+        "content": false,
+        "created_at": "2025-10-20T16:05:15.169Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "bb900d03-5fa3-4977-9ce6-288f099b9773",
+        "import_id": null,
+        "field_id": "92d4f961-06f3-40e5-a6b1-f7e7f44f4abf",
+        "field_type": "boolean",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    },
+    {
+        "content": true,
+        "created_at": "2025-10-20T16:05:14.795Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "6ff3c34a-03c5-436a-bc08-452327347114",
+        "import_id": null,
+        "field_id": "92d4f961-06f3-40e5-a6b1-f7e7f44f4abf",
+        "field_type": "boolean",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    },
+    {
+        "content": "139",
+        "created_at": "2025-10-20T16:04:42.917Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "db4565bd-e309-4b16-b544-47e5da53148b",
+        "import_id": null,
+        "field_id": "4feab06e-0a8d-407e-afd8-a54e0ca93e5c",
+        "field_type": "number",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    },
+    {
+        "content": "text 1 drug",
+        "created_at": "2025-10-20T16:01:57.946Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "b9365972-7fa1-4413-85a1-026a8008eec5",
+        "import_id": null,
+        "field_id": "68a71528-7024-471b-a853-c37c3ced61a7",
+        "field_type": "text",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    },
+    {
+        "content": "text 1 drug",
+        "created_at": "2025-10-20T16:01:57.945Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "a0a54749-8317-453a-bc50-6f08f46505fc",
+        "import_id": null,
+        "field_id": "68a71528-7024-471b-a853-c37c3ced61a7",
+        "field_type": "text",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    },
+    {
+        "content": "this is drug 1",
+        "created_at": "2025-10-17T18:13:23.726Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "403f3492-b187-41f6-b842-c1c80cafc497",
+        "import_id": null,
+        "field_id": "68a71528-7024-471b-a853-c37c3ced61a7",
+        "field_type": "text",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    },
+    {
+        "content": "this is drug 1",
+        "created_at": "2025-10-17T18:13:23.724Z",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "id": "f3fed651-36e3-45cf-a272-3177b1b6db37",
+        "import_id": null,
+        "field_id": "68a71528-7024-471b-a853-c37c3ced61a7",
+        "field_type": "text",
+        "operation_id": null,
+        "record_id": "06bfb669-9fea-4d29-8bc5-da71f1b0ecc1",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": "6d8cf9a4-41ff-4c59-84f4-553c13106625",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "import_id": null,
+        "key_field_ids": [
+            "f0cb7b2d-c800-4858-9f15-f50b9d364dd3"
+        ],
+        "slice_name": "Drug",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_at": "2025-10-17T18:11:17.330Z",
+        "updated_at": "2025-10-17T18:11:17.330Z",
+        "is_primary": true,
+        "is_archived": false,
+        "source_id": null,
+        "is_deleted": false
+    },
+    {
+        "id": "337f60ea-edbd-4b6f-a3be-f83b78bd149f",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "import_id": null,
+        "key_field_ids": [
+            "37e992e0-694c-4020-b7ca-5b00b7c58b91"
+        ],
+        "slice_name": "Compounds",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_at": "2025-10-21T17:39:46.818Z",
+        "updated_at": "2025-10-21T17:39:46.818Z",
+        "is_primary": true,
+        "is_archived": false,
+        "source_id": null,
+        "is_deleted": false
+    },
+    {
+        "id": "3725ecbe-88be-4286-8c33-c8416605ec41",
+        "created_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "last_updated_by": "9d95f7a6-79ec-4cf3-9b99-eec59149a0f5",
+        "import_id": null,
+        "key_field_ids": [
+            "37e992e0-694c-4020-b7ca-5b00b7c58b91",
+            "f0cb7b2d-c800-4858-9f15-f50b9d364dd3"
+        ],
+        "slice_name": "",
+        "workspace_id": "60171855-b8ee-4079-a809-2aaf1947829b",
+        "created_at": "2025-10-21T18:04:04.717Z",
+        "updated_at": "2025-10-21T18:04:04.717Z",
+        "is_primary": false,
+        "is_archived": false,
+        "source_id": null,
+        "is_deleted": false
+    }
+]
